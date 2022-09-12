@@ -1081,6 +1081,9 @@
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
+            ".btn": {
+              "padding": "10px !important"
+            },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)",
               "& when (@overlay)": {
