@@ -1964,7 +1964,7 @@ hr {
   opacity: 0.9;
 }
 .cid-rR8qj3Lr1I .navbar.navbar-short .navbar-logo img {
-  height: 4rem !important;
+  height: 5rem !important;
 }
 .cid-rR8qj3Lr1I .navbar.navbar-short .navbar-brand {
   padding: 0;
@@ -2740,93 +2740,6 @@ hr {
 .cid-thd8t4Xnyx .mbr-section-title {
   color: #c2921d;
   text-align: right;
-}
-.cid-thkj3r4YvP {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background7.svg");
-}
-.cid-thkj3r4YvP .mbr-overlay {
-  background: #ffffff;
-  opacity: 0.4;
-}
-.cid-thkj3r4YvP .img-row {
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-thkj3r4YvP .item:focus,
-.cid-thkj3r4YvP span:focus {
-  outline: none;
-}
-.cid-thkj3r4YvP .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-thkj3r4YvP .item {
-    padding-top: 20px !important;
-    padding-bottom: 20px !important;
-    margin-bottom: 30px;
-  }
-}
-.cid-thkj3r4YvP .item-wrapper {
-  position: relative;
-  background: transparent;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-  padding: 0 20px;
-}
-@media (max-width: 767px) {
-  .cid-thkj3r4YvP .item-wrapper {
-    max-width: 350px;
-    margin: 0 auto;
-  }
-}
-.cid-thkj3r4YvP .item-content {
-  padding: 0 1rem;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-.cid-thkj3r4YvP .mbr-section-btn {
-  margin-top: auto !important;
-  width: 100%;
-}
-.cid-thkj3r4YvP .mbr-section-title,
-.cid-thkj3r4YvP .mbr-section-subtitle {
-  color: #111111;
-}
-.cid-thkj3r4YvP .mbr-text {
-  color: #555555;
-  font-style: italic;
-}
-.cid-thkj3r4YvP .item-subtitle {
-  text-align: center;
-}
-.cid-thkj3r4YvP .item-img {
-  position: relative;
-  width: 100%;
-  padding-bottom: 100%;
-  overflow: hidden;
-  display: flex;
-  margin-bottom: 24px;
-}
-.cid-thkj3r4YvP .item-img img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  object-fit: cover;
-}
-.cid-thkj3r4YvP .mbr-section-head {
-  margin-bottom: 22px;
-}
-@media (min-width: 768px) {
-  .cid-thkj3r4YvP .mbr-section-head {
-    margin-bottom: 90px;
-  }
 }
 .cid-tg5XYepRPG {
   padding-top: 60px;
