@@ -1511,7 +1511,7 @@
         {
           "_name": "contact1",
           "_sourceTheme": "jewelrym5",
-          "_customHTML": "<section class=\"contact1\" group=\"Contact\">\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"24.748899,46.7785832\" value=\"24.748899,46.7785832\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"contact1\" group=\"Contact\">\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"مجموعة السليمان والجربوع محامون ومستشارون قانونيون\" value=\"مجموعة السليمان والجربوع محامون ومستشارون قانونيون\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_styles": {
             ".google-map": {
               "filter": "grayscale(0.9)",
