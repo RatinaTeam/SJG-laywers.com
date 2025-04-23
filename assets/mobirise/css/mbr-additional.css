@@ -1098,11 +1098,11 @@ body {
 }
 .display-7 {
   font-family: 'ArbFONTS-ArbFONTS-Janna-LT-Regular';
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.76rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -1586,11 +1586,11 @@ a:hover {
 }
 .form-control {
   font-family: 'ArbFONTS-ArbFONTS-Janna-LT-Regular';
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.76rem;
 }
 blockquote {
   border-color: #876a4a;
@@ -4775,7 +4775,7 @@ a.text-black {
 }
 .cid-uCdSr9Dxda .mbr-text,
 .cid-uCdSr9Dxda .mbr-section-btn {
-  color: #272727;
+  color: #4f4943;
   text-align: right;
 }
 .cid-uCdVssjakX {
@@ -6981,7 +6981,7 @@ a.text-black {
 }
 .cid-uCe4437btO .mbr-text,
 .cid-uCe4437btO .mbr-section-btn {
-  color: #272727;
+  color: #4f4943;
   text-align: right;
 }
 .cid-uCesZ5Pbum {
@@ -9445,7 +9445,7 @@ a.text-black {
 }
 .cid-uCicbM3ECQ .mbr-text,
 .cid-uCicbM3ECQ .mbr-section-btn {
-  color: #101010;
+  color: #4f4943;
   text-align: right;
 }
 .cid-uCidnrtTZk {
@@ -20163,7 +20163,7 @@ a.text-black {
 }
 .cid-uJbsX2L0rG .mbr-text,
 .cid-uJbsX2L0rG .mbr-section-btn {
-  color: #101010;
+  color: #4f4943;
   text-align: right;
 }
 .cid-uJby5QMgx5 {
@@ -20445,7 +20445,7 @@ a.text-black {
   margin-bottom: 10px;
   padding: 0;
   font-weight: 600;
-  color: #111213;
+  color: #4f4943;
 }
 .cid-uJbzkcaVw4 .container {
   padding: 0 15%;
@@ -22259,7 +22259,7 @@ a.text-black {
 }
 .cid-uJbDEsqo6X .mbr-text,
 .cid-uJbDEsqo6X .mbr-section-btn {
-  color: #101010;
+  color: #4f4943;
   text-align: right;
 }
 .cid-uJbDEsOFY5 {
